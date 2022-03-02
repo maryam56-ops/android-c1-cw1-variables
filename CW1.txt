@@ -1,0 +1,11 @@
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+		int FavouriteNumber = 64;
+		String Name = "mohammed";
+		String Hobby = "playing video games";
+		
+		System.out.println("Hi, My Name is " + Name + ", My Favourite Number is " + FavouriteNumber + ", My Hobby is " + Hobby );
+	}
+}
